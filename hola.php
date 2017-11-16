@@ -13,7 +13,7 @@
       <?php echo "Hola Paco campeon!!!!" ?>
     </article>
     <footer style="margin-top:500px; background-color:grey; color:white">
-      <h5>Alumno: Francisco Manuel Castillo Castillo</h5>
+      <h5>Alumno: Nombre del alumno</h5>
       <h5>Asignatura: Desarrollo Web Entorno Servidor</h5>
     </footer>
   </body>
